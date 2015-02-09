@@ -33,6 +33,6 @@ $ make FMT=bin4 project
 ![32-bit float](publish/ldmatrix.10000.bin4.2015-02-08.png)
 
 
-Result using plink-1.09 `--matrix` with 5kb bins:
+Result using plink-1.07 `--matrix` with 5kb bins:
 
 ![plink1](publish/plink1.5000.bin4.2015-02-09.png)
