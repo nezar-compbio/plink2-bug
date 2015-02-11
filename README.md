@@ -1,3 +1,6 @@
+*Update*: this low-memory bug has been [fixed](https://github.com/chrchang/plink-ng/commit/a3b34a675f0482b89d7acb9fc4ea8fedf87f3d45).
+
+
 Setup
 -----
 
